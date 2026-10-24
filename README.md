@@ -12,7 +12,7 @@ Free practice for the Life in the UK test, the test most people need to pass for
 - **Progress and study plan.** Add your test date and the site builds a day-by-day plan. Scores and accuracy by topic are kept in your browser only. Nothing is sent anywhere.
 - **Key facts** sheet with the dates, people, festivals and numbers that come up most.
 
-The bank has 185 questions, written from the official handbook, *Life in the United Kingdom: A Guide for New Residents* (3rd edition). They are not the official test questions, which are not published.
+The bank has 391 questions, written from the official handbook, *Life in the United Kingdom: A Guide for New Residents* (3rd edition). They are not the official test questions, which are not published.
 
 The handbook dates from 2013 and is out of date in a few places (the monarch, EU membership). The bank deliberately avoids those points, and a test enforces it.
 
