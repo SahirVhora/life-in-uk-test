@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sahirvhora.github.io/life-in-uk-test/sitemap.xml
